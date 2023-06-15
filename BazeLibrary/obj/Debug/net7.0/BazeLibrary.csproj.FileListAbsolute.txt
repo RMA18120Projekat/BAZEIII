@@ -1,0 +1,12 @@
+C:\Users\Djole\Desktop\Predmeti\Sistemi baza podataka\BazeIII\BazeLibrary\bin\Debug\net7.0\BazeLibrary.deps.json
+C:\Users\Djole\Desktop\Predmeti\Sistemi baza podataka\BazeIII\BazeLibrary\bin\Debug\net7.0\BazeLibrary.dll
+C:\Users\Djole\Desktop\Predmeti\Sistemi baza podataka\BazeIII\BazeLibrary\bin\Debug\net7.0\BazeLibrary.pdb
+C:\Users\Djole\Desktop\Predmeti\Sistemi baza podataka\BazeIII\BazeLibrary\obj\Debug\net7.0\BazeLibrary.csproj.AssemblyReference.cache
+C:\Users\Djole\Desktop\Predmeti\Sistemi baza podataka\BazeIII\BazeLibrary\obj\Debug\net7.0\BazeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djole\Desktop\Predmeti\Sistemi baza podataka\BazeIII\BazeLibrary\obj\Debug\net7.0\BazeLibrary.AssemblyInfoInputs.cache
+C:\Users\Djole\Desktop\Predmeti\Sistemi baza podataka\BazeIII\BazeLibrary\obj\Debug\net7.0\BazeLibrary.AssemblyInfo.cs
+C:\Users\Djole\Desktop\Predmeti\Sistemi baza podataka\BazeIII\BazeLibrary\obj\Debug\net7.0\BazeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Djole\Desktop\Predmeti\Sistemi baza podataka\BazeIII\BazeLibrary\obj\Debug\net7.0\BazeLibrary.dll
+C:\Users\Djole\Desktop\Predmeti\Sistemi baza podataka\BazeIII\BazeLibrary\obj\Debug\net7.0\refint\BazeLibrary.dll
+C:\Users\Djole\Desktop\Predmeti\Sistemi baza podataka\BazeIII\BazeLibrary\obj\Debug\net7.0\BazeLibrary.pdb
+C:\Users\Djole\Desktop\Predmeti\Sistemi baza podataka\BazeIII\BazeLibrary\obj\Debug\net7.0\ref\BazeLibrary.dll
